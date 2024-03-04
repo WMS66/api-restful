@@ -1,6 +1,6 @@
 # API, REST e RESTFUL
 
-## Índice
+## Índice 🗂️
 
 -   [Project status](#project-status)
 -   [API](#api)
@@ -8,12 +8,13 @@
 -   [Constraints](#6-necessidades-constraints-para-ser-restful)
 -   [RESTFUL](#restful)
 -   [Boas Práticas](#boas-práticas)
--   [Verbos http](#verbos-http) -[Status das Respostas](#status-das-respostas)
+-   [Verbos http](#verbos-http)
+-   [Status das Respostas](#status-das-respostas)
 -   [Dependencias](#dependencias)
 -   [Executar](#para-rodar-a-api)
 -   [Fonte:](#fonte)
 
-## Project status
+## Project status ✅
 
 | Complete | Under development | In revision |
 | -------- | ----------------- | ----------- |
@@ -100,10 +101,13 @@ RESTful, é a aplicação dos padrões REST.
 -   Executar na linha de comando.
 
 -   `node server`
+
 -   Executar o insonmia
 
 ### fonte:
 
-[youtube/Mayk Brito](https://www.youtube.com/watch?v=ghTrp1x_1As)
+-   [youtube/Mayk Brito](https://www.youtube.com/watch?v=ghTrp1x_1As)
 
-[github/maykbrito ](https://github.com/maykBrito)
+-   [github/maykbrito ](https://github.com/maykBrito)
+
+-   [REST API Tutorial](https://restfulapi.net/)
